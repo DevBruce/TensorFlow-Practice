@@ -11,3 +11,9 @@
 
 **시즌 1 - 딥러닝의 기본 (모두를 위한 딥러닝 강좌 시즌 1)** 의  
 실습 파트 (Lab Part) 를 직접 타이핑 및 연습, 기록을 위한 Repository
+
+<br>
+
+|       |                                            Practice File Link                                           |
+|:-----:|:-------------------------------------------------------------------------------------------------------:|
+| Lab01 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/practice-lab01.ipynb) |
