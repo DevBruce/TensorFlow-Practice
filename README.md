@@ -18,3 +18,4 @@
 |:--------:|:-------------------------------------------------------------------------------------------------:|
 | ML Lab01 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab01.ipynb) |
 | ML Lab02 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab02.ipynb) |
+| ML Lab03 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab03.ipynb) |
