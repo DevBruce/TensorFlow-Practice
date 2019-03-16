@@ -15,10 +15,11 @@
 <br>
 
 |          |                                        Practice File Link                                         |
-|:--------:|:-------------------------------------------------------------------------------------------------:|
+|----------|:-------------------------------------------------------------------------------------------------:|
 | ML Lab01 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab01.ipynb) |
 | ML Lab02 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab02.ipynb) |
 | ML Lab03 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab03.ipynb) |
 | ML Lab04-1 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab04-1.ipynb) |
 | ML Lab04-2 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab04-2.ipynb) |
 | ML Lab05 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab05.ipynb) |
+| ML Lab06-1 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab06-1.ipynb) |
