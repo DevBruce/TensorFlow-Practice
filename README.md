@@ -25,3 +25,4 @@
 | ML Lab06-1 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab06-1.ipynb) |
 | ML Lab06-2 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab06-2.ipynb) |
 | ML Lab07-1 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab07-1.ipynb) |
+| ML Lab07-2 | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab07-2.ipynb) |
