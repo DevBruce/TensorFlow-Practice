@@ -1,6 +1,7 @@
 # TensorFlow Practice
 
-![python-version-3.7.1](https://img.shields.io/badge/python-3.7.1-blue.svg)
+![python-version-3.7.1](https://img.shields.io/badge/python-v3.7.1-blue.svg)
+![tensorflow-version-1.13.1](https://img.shields.io/badge/TensorFlow-v1.13.1-brightgreen.svg)
 
 ## 모두를 위한 머신러닝/딥러닝 강의 ([Link](http://hunkim.github.io/ml/))  
 
