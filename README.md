@@ -20,9 +20,9 @@
 | ML Lab01   | TensorFlow Basics |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab01.ipynb)  |
 | ML Lab02   | Linear Regression |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab02.ipynb)  |
 | ML Lab03   |  Minimizing Cost  |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab03.ipynb)  |
-| ML Lab04-1 |                   | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab04-1.ipynb) |
-| ML Lab04-2 |                   | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab04-2.ipynb) |
-| ML Lab05   |                   |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab05.ipynb)  |
+| ML Lab04-1 | Multi-variable linear regression | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab04-1.ipynb) |
+| ML Lab04-2 | Loading Data from File | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab04-2.ipynb) |
+| ML Lab05   | Logistic (regression) classifier |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab05.ipynb)  |
 | ML Lab06-1 |                   | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab06-1.ipynb) |
 | ML Lab06-2 |                   | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab06-2.ipynb) |
 | ML Lab07-1 |                   | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab07-1.ipynb) |
