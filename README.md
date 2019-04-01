@@ -30,6 +30,6 @@
 | ML Lab08   |        Tensor Manipulation       |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab08.ipynb)  |
 | ML Lab09-1 |            NN for XOR            | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab09-1.ipynb) |
 | ML Lab09-2 |      Tensorboard for XOR NN      | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab09-2.ipynb) |
-| ML Lab10   |                                  |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab10.ipynb)  |
-| ML Lab11-1 |                                  | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab11-1.ipynb) |
-| ML Lab11-2 |                                  | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab11-2.ipynb) |
+| ML Lab10   |  NN,ReLu,Xavier,Droput,and Adam  |  [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab10.ipynb)  |
+| ML Lab11-1 |            CNN Basics            | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab11-1.ipynb) |
+| ML Lab11-2 |          CNN MNIST: 99%!         | [Link](https://github.com/DevBruce/TensorFlow-Practice/blob/master/practice_files/ml_lab11-2.ipynb) |
